@@ -1,7 +1,7 @@
 
 
 body {
-background-color: green
+background-color: green;
   font-family: Arial, sans-serif;
   text-align: center;
 }
@@ -10,7 +10,7 @@ background-color: green
 
 h1 {
   color: yellow;
-  padding: 3em;
+  background-color: aqua;
   
 }
 
