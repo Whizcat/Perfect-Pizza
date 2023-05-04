@@ -1,16 +1,16 @@
 
-```css
+h1 {
 body {
   font-family: Arial, sans-serif;
   text-align: center;
 }
 
 h1 {
-  color: #d32f2f;
+  color: yellow;
 }
 
 h2 {
-  color: #333;
+  color: blue;
   margin-top: 50px;
 }
 
@@ -27,5 +27,5 @@ p {
 
 p:last-of-type {
   margin-bottom: 50px;
-}
-```
+
+
