@@ -1,6 +1,6 @@
 
 h1 {
-body {
+<body>
   font-family: Arial, sans-serif;
   text-align: center;
 }
@@ -27,5 +27,6 @@ p {
 
 p:last-of-type {
   margin-bottom: 50px;
-
+  </body>
+}
 
