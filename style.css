@@ -11,7 +11,7 @@ h1 {
 }
 
 h2 {
-  color: purple;
+  color: yellow;
   background-color: brown;
   margin-top: 70px;
 }
@@ -20,6 +20,8 @@ img {
   max-width: 50%;
   height: auto;
   margin-top: 30px;
+  background-color: aqua;
+  
 }
 
 p {
