@@ -1,5 +1,14 @@
 
 
+body {
+  background-color: aqua;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  
+  }
+  
+
+
 .pizza-row {
   display: flex;
   flex-wrap: wrap;
@@ -9,5 +18,5 @@
 .pizza-item {
   margin: 20px;
   text-align: center;
-  width: 250px;
+  width: fit-content;
 }
