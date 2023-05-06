@@ -1,4 +1,10 @@
-
+body {
+  background-color: aqua;
+    font-family: Verdana;
+    text-align: center;
+  
+  }
+  
 
 .pizza-container {
   display: flex;
